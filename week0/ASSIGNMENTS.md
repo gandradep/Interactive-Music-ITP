@@ -37,3 +37,9 @@ Marc and Yurika made a website that produces a melody when you scroll down while
 Recorded the everyday sound around me, then edited in a arbitrarily way.
 
 [link](http://thinkingclay.com/index.php/week1_-sound-collage/)
+
+### Gabriel Andrade
+
+Recorded a pattern and repeated in a 12 measures 4/4 long after a prime number. 
+
+[link](http://www.gandradep.com/?p=296)
